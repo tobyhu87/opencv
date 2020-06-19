@@ -1,0 +1,5 @@
+C:\Users\tobyhu\source\repos\DetectFaceTool\x64\Debug\DetectFaceTool.exe
+C:\Users\tobyhu\source\repos\DetectFaceTool\x64\Debug\DetectFaceTool.pdb
+C:\Repos\opencv\samples\win10\DetectFaceTool\x64\Debug\DetectFaceTool.exe
+C:\Repos\opencv\samples\win10\DetectFaceTool\x64\Debug\DetectFaceTool.pdb
+C:\Repos\opencv\samples\win10\DetectFaceTool\x64\Debug\haarcascade_frontalface_alt.xml

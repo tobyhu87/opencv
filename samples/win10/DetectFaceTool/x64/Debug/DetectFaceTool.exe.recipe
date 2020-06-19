@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>C:\Repos\opencv\samples\win10\DetectFaceTool\x64\Debug\DetectFaceTool.exe</ProjectOutputs>
+  <ContentFiles>C:\Repos\opencv\samples\win10\DetectFaceTool\haarcascade_frontalface_alt.xml</ContentFiles>
+  <SatelliteDlls></SatelliteDlls>
+  <NonRecipeFileRefs></NonRecipeFileRefs>
+</Project>
