@@ -1,0 +1,10 @@
+{
+  "comments": "The dot-devinit file for OpenCV",
+  "run": [
+    {
+      "tool": "require-vscomponent",
+      "comments": "Imports .vsconfig file which is passed as input to Visual Studio.",
+      "input": ".vsconfig"
+    }
+  ]
+}
