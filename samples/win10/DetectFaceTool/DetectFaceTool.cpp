@@ -48,7 +48,7 @@ int main(int argc, char* argv[], char* envp[])
         auto face = facesColl[i];
         // yellow 0, 255, 255
         // purple
-        cv::rectangle(faces, face, cv::Scalar(0, 255, 255), 5);
+        cv::rectangle(faces, face, cv::Scalar(0, 255, 0), 5);
     }
 
     if (facesColl.size() > 0)
