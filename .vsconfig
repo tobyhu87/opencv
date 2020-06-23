@@ -74,6 +74,7 @@
     "Microsoft.ComponentGroup.Blend",
     "Microsoft.VisualStudio.Component.Debugger.JustInTime",
     "Microsoft.VisualStudio.Component.DotNetModelBuilder",
+    "Microsoft.VisualStudio.ComponentGroup.MSIX.Packaging",
     "Microsoft.VisualStudio.Workload.ManagedDesktop",
     "Microsoft.VisualStudio.Component.VC.Redist.14.Latest",
     "Microsoft.VisualStudio.ComponentGroup.ArchitectureTools.Native",
@@ -83,9 +84,23 @@
     "Microsoft.VisualStudio.Component.VC.ATL",
     "Microsoft.VisualStudio.Component.VC.TestAdapterForBoostTest",
     "Microsoft.VisualStudio.Component.VC.TestAdapterForGoogleTest",
+    "Microsoft.VisualStudio.Component.VC.CLI.Support",
     "Microsoft.VisualStudio.Component.VC.ASAN",
+    "Microsoft.VisualStudio.Component.VC.Modules.x86.x64",
+    "Microsoft.VisualStudio.Component.VC.Llvm.ClangToolset",
     "Microsoft.VisualStudio.Workload.NativeDesktop",
+    "Microsoft.Component.NetFX.Native",
+    "Microsoft.VisualStudio.ComponentGroup.UWP.NetCoreAndStandard",
+    "Microsoft.VisualStudio.Component.Graphics",
+    "Microsoft.VisualStudio.ComponentGroup.UWP.Xamarin",
+    "Microsoft.VisualStudio.ComponentGroup.UWP.Support",
+    "Microsoft.VisualStudio.Component.VC.Tools.ARM64",
+    "Microsoft.VisualStudio.Component.UWP.VC.ARM64",
+    "Microsoft.VisualStudio.Component.VC.Tools.ARM",
+    "Microsoft.VisualStudio.ComponentGroup.UWP.VC",
+    "Microsoft.VisualStudio.Workload.Universal",
     "Microsoft.VisualStudio.Workload.NetCoreTools",
-    "Microsoft.VisualStudio.Component.Debugger.VSOnline"
+    "Microsoft.VisualStudio.Component.Debugger.VSOnline",
+    "Microsoft.VisualStudio.Component.VC.Runtimes.x86.x64.Spectre"
   ]
 }
