@@ -1,0 +1,2 @@
+C:\Repos\opencv\samples\demo\test2\Debug\test2.exe
+C:\Repos\opencv\samples\demo\test2\Debug\test2.pdb

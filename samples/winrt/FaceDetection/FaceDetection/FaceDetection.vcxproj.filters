@@ -46,6 +46,8 @@
     <None Include="$(OpenCV_Bin)opencv_ml300$(DebugSuffix).dll" />
     <None Include="$(OpenCV_Bin)opencv_objdetect300$(DebugSuffix).dll" />
     <None Include="$(OpenCV_Bin)opencv_imgcodecs300$(DebugSuffix).dll" />
+    <None Include="$(OpenCV_Bin)opencv_videoio300$(DebugSuffix).dll" />
+    <None Include="$(OpenCV_Bin)opencv_highgui300$(DebugSuffix).dll" />
   </ItemGroup>
   <ItemGroup>
     <Page Include="MainPage.xaml" />
